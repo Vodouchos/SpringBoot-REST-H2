@@ -3,6 +3,8 @@ Training exercise on springboot rest API
 Spring Boot REST API, that runs on localhost:9090
 Uses embeded H2 database
 
+User has Id, name, country
+
 REST commands:
 @PostMapping("/adduser")
 @PostMapping("/addusers")
